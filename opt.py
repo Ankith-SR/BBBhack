@@ -1,3 +1,5 @@
+#This is the optimised version of the code that runs all digits in parallel
+
 import time
 import statistics
 import concurrent.futures
